@@ -3,23 +3,23 @@
   <!-- 首页 -->
   <url>
     <loc>https://mzc1718.xyz/</loc>
-    <lastmod>2026-02-16</lastmod>
+    <lastmod>2026-02-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
-  
+
   <!-- 关于页面 -->
   <url>
     <loc>https://mzc1718.xyz/about.html</loc>
-    <lastmod>2026-02-16</lastmod>
+    <lastmod>2026-02-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  
+
   <!-- 隐私页面 -->
   <url>
     <loc>https://mzc1718.xyz/privacy.html</loc>
-    <lastmod>2026-02-16</lastmod>
+    <lastmod>2026-02-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
