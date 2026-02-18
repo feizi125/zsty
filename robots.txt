@@ -1,6 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /js/
-Disallow: /css/
 
-Sitemap: https://libretv.is-an.org/sitemap.xml
+Sitemap: https://mzc1718.xyz/sitemap.xml
