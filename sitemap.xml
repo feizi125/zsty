@@ -8,22 +8,6 @@
     <priority>1.0</priority>
   </url>
 
-  <!-- 关于页面 -->
-  <url>
-    <loc>https://mzc1718.xyz/about.html</loc>
-    <lastmod>2026-03-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- 隐私页面 -->
-  <url>
-    <loc>https://mzc1718.xyz/privacy.html</loc>
-    <lastmod>2026-03-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-
   <!-- 电影页面 -->
   <url>
     <loc>https://mzc1718.xyz/category/movie.html</loc>
@@ -89,3 +73,4 @@
     </image:image>
   </url>
 </urlset>
+
